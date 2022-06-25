@@ -419,4 +419,10 @@ export default {
     }
 }
 
+@media (max-width: 1600px) {
+
+    .white_frame_color {
+        padding-left: 0;
+    }
+}
 </style>
